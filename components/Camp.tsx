@@ -22,7 +22,7 @@ const CampSite = ({ backgroundImage, title, subtitle, peopleJoined }: CampProps)
               alt='map'
               width={28}
               height={28}
-            />{' '}
+            />
           </div>
 
           <div className='flex flex-col gap-1'>
