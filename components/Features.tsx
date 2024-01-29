@@ -1,4 +1,4 @@
-import { FEATURES } from '@/contants';
+import { FEATURES } from '@/constants';
 import Image from 'next/image';
 import { features } from 'process';
 import React from 'react';
